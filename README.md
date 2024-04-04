@@ -1,2 +1,2 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Go
