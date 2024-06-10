@@ -1,2 +1,2 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning C#
